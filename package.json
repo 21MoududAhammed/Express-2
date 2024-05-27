@@ -1,0 +1,16 @@
+{
+  "name": "express-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env--file=.env index.js",
+    "dev": "nodemon --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
